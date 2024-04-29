@@ -1,2 +1,3 @@
-# JAWABAN-UTS-OOP
+# JAWABAN-UTS PRAKTIKUM-OOP-NO 1 & 2
+
 Mutiara Nur Handayani I.2310675
